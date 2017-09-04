@@ -1,0 +1,1 @@
+console.log("This is the first line \n And this is the second line");
